@@ -1,8 +1,8 @@
 # Olga Klimetyonok  
 
 e-mail olgaklimetenok@gmail.com  
-facebook [https://www.facebook.com/olga.klimetenok]  
-github [https://github.com/klimetyonok]  
+facebook [https://www.facebook.com/olga.klimetenok](https://www.facebook.com/olga.klimetenok)  
+github [https://github.com/klimetyonok](https://github.com/klimetyonok)  
 phone +375 29 715-25-72  
 
 #### Goals
@@ -18,7 +18,7 @@ alert(text);
 ```  
 
 #### Experience
-Project from courses in IT-Academy [https://github.com/klimetyonok/project]  
+Project from courses in IT-Academy [https://github.com/klimetyonok/project](https://github.com/klimetyonok/project)  
 
 #### Education
 Learning in IT-Academy, online courses html academy  
