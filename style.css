@@ -1,0 +1,69 @@
+body {
+    font-size: 16px;
+    overflow-x: hidden;
+    max-width: 1250px;
+}
+
+.container {
+    width: 100%;
+    height: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+}
+
+aside {
+    background: #b1d7d0;
+    max-width: 250px;
+    height: 100%;
+    position: relative;
+}
+
+.wr-aside,
+.wr-about {
+    display: flex;
+    flex-direction: column;
+}
+
+.wr-aside {
+    align-items: center;
+}
+
+.name {
+    position: absolute;
+    top: 50%;
+    width: 250px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.77;
+    letter-spacing: 0.03px;
+    text-align: left;
+    transform: rotate(-90deg);
+    padding: 30px;
+}
+
+.name h2 {
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name p {
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about {
+    max-width: 1000px;
+    height: 1000px;
+    padding: 20px;
+}
+
+img {
+    display: block;
+}
